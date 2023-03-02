@@ -1,0 +1,19 @@
+#
+# .gitignore
+#
+
+*~
+*.bak
+*.tmp
+*.swp
+
+*.o
+*.d
+*.i
+*.so
+pdfcrack
+
+build/
+build-*/
+
+*.sav
